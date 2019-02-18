@@ -3,6 +3,12 @@ I seguenti codici simulano il moto di un pendolo forzato smorzato con parametri 
 e grafici per l'analisi del caos deterministico, come i bacini di attrazione,
 le sezioni di Poincare e i diagrammi di biforcazione.
 
+Le integrazioni numeriche possibili sono eseguite attraverso i metodi:
+1) Eulero
+2) Eulero-Cromer
+3) Verlet (autoavviante)
+4) Rouge-Kutta 4
+
 Per avviare il programma lanciare lo script "start.sh"
 
 Per cambiare i parametri del moto modificare il file "condizioni_iniziali.dat"
