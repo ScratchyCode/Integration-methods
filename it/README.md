@@ -18,7 +18,7 @@ Per avviare il programma lanciare lo script "start.sh".
 
 Per cambiare i parametri del moto o il metodo di integrazione modificare il file "condizioni_iniziali.dat".
 
-Per cambiare l'equazione differenziale da integrare modificare la macro nel file sorgente  "integratore.c".
+Per cambiare l'equazione differenziale da integrare modificare le macro nel file sorgente  "integratore.c".
 
 # Note
 È stato necessario introdurre vari livelli di ottimizzazione dei calcoli;
