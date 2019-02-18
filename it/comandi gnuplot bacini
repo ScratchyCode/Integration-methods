@@ -1,0 +1,5 @@
+updated 
+plot '-' u 1:2:3 with points pt 7 ps 0.1 palette
+
+first
+plot '-' u 1:2:3 with points pointtype 5 ps 0.8 palette
