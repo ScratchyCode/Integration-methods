@@ -11,14 +11,14 @@ Le integrazioni numeriche possibili sono eseguite attraverso i metodi:
 4) Rouge-Kutta 4
 
 # How to
-Per avviare il programma lanciare lo script "start.sh"
+Per avviare il programma lanciare lo script "start.sh".
 
-Per cambiare i parametri del moto o il metodo di integrazione modificare il file "condizioni_iniziali.dat"
+Per cambiare i parametri del moto o il metodo di integrazione modificare il file "condizioni_iniziali.dat".
 
-Per cambiare l'equazione differenziale da integrare modificare la macro nel file sorgente  integratore.c
+Per cambiare l'equazione differenziale da integrare modificare la macro nel file sorgente  "integratore.c".
 
 # Note
-È stata necessaria l'introduzione di vari livelli di ottimizzazione dei calcoli;
-per questo vedere i commenti nel file sorgente integratore.c
+È stato necessario introdurre vari livelli di ottimizzazione dei calcoli;
+vedere i commenti nel file sorgente "integratore.c" per personalizzare l'elaborazione.
 
-I plot vengono salvati in formato .png nella directory di esecuzione (se è definita la variabile da precompilatore "PNG")
+I plot vengono salvati in formato .png nella directory di esecuzione (se è definita la variabile da precompilatore "PNG").
